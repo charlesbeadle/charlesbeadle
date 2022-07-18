@@ -1,7 +1,6 @@
-<h2>Hi there. I'm Charles, and I'm a developer from the Tampa Bay area.</h2> 
-<h3>I'm into web development and Linux system administration.</h3>
+## Hi there. I'm Charles, and I'm a developer from the Tampa Bay area.
+### I'm into web development and Linux system administration.
 
----
 \
 Email: [contact@charlesbeadle.tech](mailto:contact@charlesbeadle.tech)
 
