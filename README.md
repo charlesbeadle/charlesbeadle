@@ -4,8 +4,6 @@
 \
 Email: [contact@charlesbeadle.tech](mailto:contact@charlesbeadle.tech)
 
-Website: [charlesbeadle.tech](charlesbeadle.tech)
-
 Github Stats:
 <br>
 
