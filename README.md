@@ -3,8 +3,3 @@
 
 \
 Email: [contact@charlesbeadle.tech](mailto:contact@charlesbeadle.tech)
-
-Github Stats:
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbeadle&theme=react)
